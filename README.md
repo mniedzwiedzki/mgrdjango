@@ -1,0 +1,2 @@
+# mgrdjango
+strona django
